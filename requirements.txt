@@ -1,0 +1,13 @@
+Flask
+opencv-python
+insightface
+numpy
+scikit-learn
+onnxruntime
+gunicorn
+pandas
+python-dotenv
+pymongo
+dnspython
+Pillow
+Werkzeug
